@@ -1,0 +1,26 @@
+---
+name: Create KB from Escalation
+about: Make it easy for people
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+name: Create KB
+description: This description is mandatory
+labels: [kb-from-ecalation]
+assignees:
+  - timburgan
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this goodness
+  - type: input
+    id: url
+    attributes:
+      label: URL of Engineering Escalation
+      placeholder: ex. https://github.com/github/c2c-actions-support
+    validations:
+      required: true
