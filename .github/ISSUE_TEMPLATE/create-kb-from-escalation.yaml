@@ -1,6 +1,6 @@
 name: Create KB
 description: This description is mandatory
-labels: [kb-from-ecalation]
+labels: 'kb-from-ecalation'
 assignees:
   - timburgan
 body:
