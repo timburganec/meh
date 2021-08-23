@@ -1,12 +1,3 @@
----
-name: Create KB from Escalation
-about: Make it easy for people
-title: ''
-labels: ''
-assignees: ''
-
----
-
 name: Create KB
 description: This description is mandatory
 labels: [kb-from-ecalation]
