@@ -1,6 +1,7 @@
 name: Create KB
 description: This description is mandatory
 labels: 'kb-from-escalation'
+title: New KB from Escalation
 assignees:
   - timburgan
 body:
